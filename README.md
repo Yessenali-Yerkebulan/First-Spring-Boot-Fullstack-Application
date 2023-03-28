@@ -1,15 +1,25 @@
 # First-Spring-Boot-Fullstack-Application
-<h3>My First Spring Boot Fullstack Application Angular, MySQL, REST</h3>
+<h3>My First Spring Boot Fullstack Application Angular, MySQL, REST, Bootstrap</h3>
 <br/>
 <hr/>
 <h3>Description:</h3><br/>
 <h4>Simple Employee Management System CRUD</h4>
-<br/>
+<hr/>
+<ul><h4>Tools and Technologies:</h4>
+<li>Spring REST</li>
+<li>Angular</li>
+<li>REST</li>
+<li>MySQL</li>
+<li>Bootstrap</li>
+<li>Spring Data Jpa(Hibernate)</li>
+</ul>
 <hr/>
 <ul><h4>What I learned:</h4>
 <li>Spring REST</li>
 <li>Angular</li>
 <li>REST</li>
+<li>Dependency Injection</li>
+<li>Data Binding</li>
 </ul>
 
 
